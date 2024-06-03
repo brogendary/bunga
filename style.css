@@ -1,0 +1,75 @@
+body{
+    background-color: skyblue;
+}
+
+.bunga{
+    width: 500px;
+    height: 800px;
+    border: 2px solid wheat;
+    margin: 100px auto;
+
+}
+
+.pot{
+    background-color: #A67B5B;
+   
+    width: 225px;
+    height: 150px;
+    margin: auto;
+    position: relative;
+    top: 600px;
+}
+
+.ppot{
+    background-color: #6F4E37;
+    margin: auto;
+    
+    /*border-radius: 90px 90px 0 0;*/
+    width: 250px;
+    height: 40px;
+    position: relative;
+    top: 425px;
+}
+
+/*.tanah{
+    width: 220px;
+    height: 50px;
+    border-radius: 40px 40px 0 0;
+    background-color: #543310;
+    margin: auto;
+    position: relative;
+    top: 365;
+    z-index: -1;
+} */
+
+.tangkai{
+    width: 22px;
+    height: 350px;
+    background-color: green;
+    margin: auto;
+    top: 90px;
+    position: relative;
+    z-index: -2;
+}
+
+.daun{
+    width: 40px;
+    height: 20px;
+    background-color:rgb(94, 167, 21) ;
+    border-radius: 20px 0px 20px 0px;
+    margin: auto;
+    position: relative;
+    top: -200px;
+    left: 20px;
+}
+
+.kuncup{
+    width: 95px;
+    height: 75px;
+    background-color: red;
+    border-radius: 0 0 40px 40px;
+    margin: auto;
+
+    position: relative;
+    top: -350;
+}
